@@ -7,6 +7,7 @@ const users = [
     email: "lalitbhagwasia006@Gmail.com",
   },
   { id: 2, name: "abhi kumar", email: "abhibhagwasia007@Gmail.com" },
+  { id: 3, name: "rohan kumar", email: "rohanbhagwasia007@Gmail.com" },
 ];
 
 const server = http.createServer((req, res) => {
